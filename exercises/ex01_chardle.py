@@ -12,7 +12,6 @@ if len(single_character) != 1:
     exit()
 count: int = 0
 
-
 print("Searching for " + single_character + " in " + character_word)
 
 if single_character == character_word[0]:
